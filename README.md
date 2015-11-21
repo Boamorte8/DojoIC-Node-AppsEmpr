@@ -31,7 +31,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## License
 
-Copyright (c) 2015 jonathan diosa. Licensed under the MIT license.
+Copyright (c) 2015 Jadiosa and Boamorte8. Licensed under the MIT license.
 
 
 
