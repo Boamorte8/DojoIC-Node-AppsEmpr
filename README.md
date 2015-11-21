@@ -3,7 +3,7 @@
 
 [ ![Codeship Status for jadiosa/empresariales-ic-node](https://codeship.com/projects/20a11ce0-f06f-0132-1e9f-0e935ee940a2/status?branch=master)](https://codeship.com/projects/84620)
 
-The best module ever
+The best module ever - Repositorio de prueba de Integración continua
 
 ## Install
 
